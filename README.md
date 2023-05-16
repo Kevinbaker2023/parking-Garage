@@ -44,7 +44,7 @@ When the project is completed, commit the final changes, sync all pull requests,
 ###### Provide name and approxamite line numbers where each person wrote their code
 
 Nicole Cabrera
-Lines 2 - 21
+Lines 2 - 22
 
 Kevin Baker
-Lines 23 - 51
+Lines 24 - 53

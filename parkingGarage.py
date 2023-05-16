@@ -34,7 +34,7 @@ class ParkingGarage():
             if value == 'True':
                 print('Thank you, have a nice day')
             elif value == 'False':
-                paid1 = float(input('Please enter your payment amount here!'))
+                paid1 = float(input('Please enter your payment amount here!: '))
                 if paid1 > 0:
                     print("Thank you, have a nice day!")
                 else:
@@ -62,16 +62,11 @@ class ParkingGarage():
             else:
                 print('Response not recognized, please try again')
 
-
-    
-    
-
 # new_ticket = ParkingGarage()
 # print(new_ticket.is_Available())
 # print(new_ticket.issue_tickets())
 # print(new_ticket.pay_For_Parking())
 # print(new_ticket.leave_Garage())
-
 
 new_ticket = ParkingGarage()
 new_ticket.runner()
